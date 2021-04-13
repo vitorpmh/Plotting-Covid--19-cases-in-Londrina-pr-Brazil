@@ -1,0 +1,2479 @@
+
+
+*******************************************************************************
+Tue Sep 15 18:20:50 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1236845301e+10   0.00e+00  7.60e-01    1.000000e+00   1.000000e+00
+   3 1.9137425236e+10  -2.22e-01  7.60e-04    6.640031e+04   1.063441e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.91374e+10
+rel. change during last iteration : -2.22422e-06
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 48909.9
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.39218e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 66400.3          +/- 5.88e+04     (88.55%)
+b               = 10634.4          +/- 2.315e+04    (217.7%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.744  1.000 
+
+
+*******************************************************************************
+Tue Sep 15 18:21:27 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1236845301e+10   0.00e+00  7.60e-01    1.000000e+00   1.000000e+00
+   3 1.9137425236e+10  -2.22e-01  7.60e-04    6.640031e+04   1.063441e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.91374e+10
+rel. change during last iteration : -2.22422e-06
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 48909.9
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.39218e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 66400.3          +/- 5.88e+04     (88.55%)
+b               = 10634.4          +/- 2.315e+04    (217.7%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.744  1.000 
+
+
+*******************************************************************************
+Tue Sep 15 18:22:08 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1236845301e+10   0.00e+00  7.60e-01    1.000000e+00   1.000000e+00
+   3 1.9137425236e+10  -2.22e-01  7.60e-04    6.640031e+04   1.063441e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.91374e+10
+rel. change during last iteration : -2.22422e-06
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 48909.9
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.39218e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 66400.3          +/- 5.88e+04     (88.55%)
+b               = 10634.4          +/- 2.315e+04    (217.7%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.744  1.000 
+
+
+*******************************************************************************
+Tue Sep 15 18:23:17 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1236845301e+10   0.00e+00  7.60e-01    1.000000e+00   1.000000e+00
+   3 1.9137425236e+10  -2.22e-01  7.60e-04    6.640031e+04   1.063441e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.91374e+10
+rel. change during last iteration : -2.22422e-06
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 48909.9
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.39218e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 66400.3          +/- 5.88e+04     (88.55%)
+b               = 10634.4          +/- 2.315e+04    (217.7%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.744  1.000 
+
+
+*******************************************************************************
+Tue Sep 15 18:26:07 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1236845301e+10   0.00e+00  7.60e-01    1.000000e+00   1.000000e+00
+   3 1.9137425236e+10  -2.22e-01  7.60e-04    6.640031e+04   1.063441e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.91374e+10
+rel. change during last iteration : -2.22422e-06
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 48909.9
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.39218e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 66400.3          +/- 5.88e+04     (88.55%)
+b               = 10634.4          +/- 2.315e+04    (217.7%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.744  1.000 
+
+
+*******************************************************************************
+Tue Sep 15 18:26:23 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1236845301e+10   0.00e+00  7.60e-01    1.000000e+00   1.000000e+00
+   3 1.9137425236e+10  -2.22e-01  7.60e-04    6.640031e+04   1.063441e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.91374e+10
+rel. change during last iteration : -2.22422e-06
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 48909.9
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.39218e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 66400.3          +/- 5.88e+04     (88.55%)
+b               = 10634.4          +/- 2.315e+04    (217.7%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.744  1.000 
+
+
+*******************************************************************************
+Tue Sep 15 18:26:33 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1236845301e+10   0.00e+00  7.60e-01    1.000000e+00   1.000000e+00
+   3 1.9137425236e+10  -2.22e-01  7.60e-04    6.640031e+04   1.063441e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.91374e+10
+rel. change during last iteration : -2.22422e-06
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 48909.9
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.39218e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 66400.3          +/- 5.88e+04     (88.55%)
+b               = 10634.4          +/- 2.315e+04    (217.7%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.744  1.000 
+
+
+*******************************************************************************
+Tue Sep 15 18:26:44 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1236845301e+10   0.00e+00  7.60e-01    1.000000e+00   1.000000e+00
+   3 1.9137425236e+10  -2.22e-01  7.60e-04    6.640031e+04   1.063441e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.91374e+10
+rel. change during last iteration : -2.22422e-06
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 48909.9
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.39218e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 66400.3          +/- 5.88e+04     (88.55%)
+b               = 10634.4          +/- 2.315e+04    (217.7%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.744  1.000 
+
+
+*******************************************************************************
+Tue Sep 15 18:27:23 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Tue Sep 15 18:27:56 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Tue Sep 15 18:29:55 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Tue Sep 15 18:34:16 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Tue Sep 15 18:34:21 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1236845301e+10   0.00e+00  7.60e-01    1.000000e+00   1.000000e+00
+   3 1.9137425236e+10  -2.22e-01  7.60e-04    6.640031e+04   1.063441e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.91374e+10
+rel. change during last iteration : -2.22422e-06
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 48909.9
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.39218e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 66400.3          +/- 5.88e+04     (88.55%)
+b               = 10634.4          +/- 2.315e+04    (217.7%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.744  1.000 
+
+
+*******************************************************************************
+Wed Sep 16 12:14:57 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Wed Sep 16 12:15:01 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1236845301e+10   0.00e+00  7.60e-01    1.000000e+00   1.000000e+00
+   3 1.9137425236e+10  -2.22e-01  7.60e-04    6.640031e+04   1.063441e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.91374e+10
+rel. change during last iteration : -2.22422e-06
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 48909.9
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.39218e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 66400.3          +/- 5.88e+04     (88.55%)
+b               = 10634.4          +/- 2.315e+04    (217.7%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.744  1.000 
+
+
+*******************************************************************************
+Wed Sep 16 16:11:54 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Wed Sep 16 16:13:44 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Wed Sep 16 16:22:47 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Wed Sep 16 16:23:08 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Wed Sep 16 16:23:19 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Wed Sep 16 16:23:29 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Wed Sep 16 16:24:27 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Wed Sep 16 16:24:59 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Wed Sep 16 16:25:20 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Wed Sep 16 16:25:53 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Wed Sep 16 16:26:03 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Wed Sep 16 16:26:38 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Wed Sep 16 16:27:06 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Wed Sep 16 16:27:35 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Wed Sep 16 16:28:11 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Wed Sep 16 16:29:01 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 2:5
+        format = x:z
+        x range restricted to [0.00000 : 650.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.1237107986e+10   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+   5 2.0421108609e+10  -5.31e-04  7.07e-06    2.491326e+06   1.353836e+04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04211e+10
+rel. change during last iteration : -5.31031e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50523.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.55264e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.49133e+06      +/- 2.995e+06    (120.2%)
+b               = 13538.4          +/- 2.551e+04    (188.4%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.780  1.000 
+
+
+*******************************************************************************
+Thu Oct  1 13:43:07 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 12
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.5987965564e+10   0.00e+00  7.52e-01    1.000000e+00   1.000000e+00
+   3 2.2015248279e+10  -1.04e-01  7.52e-04    5.783070e+04   1.589901e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.20152e+10
+rel. change during last iteration : -1.04443e-06
+
+degrees of freedom    (FIT_NDF)                        : 10
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 46920.4
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.20152e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 57830.7          +/- 5.373e+04    (92.92%)
+b               = 15899            +/- 1.94e+04     (122.1%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.716  1.000 
+
+
+*******************************************************************************
+Thu Oct 15 18:55:27 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.5987965565e+10   0.00e+00  7.49e-01    1.000000e+00   1.000000e+00
+   3 2.2382737828e+10  -1.10e-01  7.49e-04    6.213404e+04   1.328111e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.23827e+10
+rel. change during last iteration : -1.10162e-06
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 45108.7
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.03479e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 62134            +/- 5.066e+04    (81.53%)
+b               = 13281.1          +/- 1.761e+04    (132.6%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.704  1.000 
+
+
+*******************************************************************************
+Thu Oct 15 20:22:09 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.5988097350e+10   0.00e+00  7.49e-01    1.000000e+00   1.000000e+00
+   3 2.2369703731e+10  -1.10e-01  7.49e-04    6.205703e+04   1.332796e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.23697e+10
+rel. change during last iteration : -1.09891e-06
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 45095.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.03361e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 62057            +/- 5.064e+04    (81.61%)
+b               = 13328            +/- 1.76e+04     (132.1%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.704  1.000 
+
+
+*******************************************************************************
+Thu Oct 15 20:22:43 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.5988097350e+10   0.00e+00  7.49e-01    1.000000e+00   1.000000e+00
+   3 2.2369703731e+10  -1.10e-01  7.49e-04    6.205703e+04   1.332796e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.23697e+10
+rel. change during last iteration : -1.09891e-06
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 45095.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.03361e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 62057            +/- 5.064e+04    (81.61%)
+b               = 13328            +/- 1.76e+04     (132.1%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.704  1.000 
+
+
+*******************************************************************************
+Fri Oct 16 10:21:48 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.5988097350e+10   0.00e+00  7.49e-01    1.000000e+00   1.000000e+00
+   3 2.2369703731e+10  -1.10e-01  7.49e-04    6.205703e+04   1.332796e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.23697e+10
+rel. change during last iteration : -1.09891e-06
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 45095.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.03361e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 62057            +/- 5.064e+04    (81.61%)
+b               = 13328            +/- 1.76e+04     (132.1%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.704  1.000 
+
+
+*******************************************************************************
+Fri Oct 16 10:22:52 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.5988097350e+10   0.00e+00  7.49e-01    1.000000e+00   1.000000e+00
+   3 2.2369703731e+10  -1.10e-01  7.49e-04    6.205703e+04   1.332796e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.23697e+10
+rel. change during last iteration : -1.09891e-06
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 45095.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.03361e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 62057            +/- 5.064e+04    (81.61%)
+b               = 13328            +/- 1.76e+04     (132.1%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.704  1.000 
+
+
+*******************************************************************************
+Fri Oct 16 10:24:12 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.5988097350e+10   0.00e+00  7.49e-01    1.000000e+00   1.000000e+00
+   3 2.2369703731e+10  -1.10e-01  7.49e-04    6.205703e+04   1.332796e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.23697e+10
+rel. change during last iteration : -1.09891e-06
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 45095.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.03361e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 62057            +/- 5.064e+04    (81.61%)
+b               = 13328            +/- 1.76e+04     (132.1%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.704  1.000 
+
+
+*******************************************************************************
+Fri Oct 16 10:24:49 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.5988097350e+10   0.00e+00  7.49e-01    1.000000e+00   1.000000e+00
+   3 2.2369703731e+10  -1.10e-01  7.49e-04    6.205703e+04   1.332796e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.23697e+10
+rel. change during last iteration : -1.09891e-06
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 45095.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.03361e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 62057            +/- 5.064e+04    (81.61%)
+b               = 13328            +/- 1.76e+04     (132.1%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.704  1.000 
+
+
+*******************************************************************************
+Fri Oct 16 10:25:18 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.5988097350e+10   0.00e+00  7.49e-01    1.000000e+00   1.000000e+00
+   3 2.2369703731e+10  -1.10e-01  7.49e-04    6.205703e+04   1.332796e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.23697e+10
+rel. change during last iteration : -1.09891e-06
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 45095.6
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.03361e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 62057            +/- 5.064e+04    (81.61%)
+b               = 13328            +/- 1.76e+04     (132.1%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.704  1.000 
+
+
+*******************************************************************************
+Tue Oct 27 11:45:19 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.0654302706e+10   0.00e+00  7.46e-01    1.000000e+00   1.000000e+00
+   3 2.4661971886e+10  -5.89e-02  7.46e-04    5.215242e+04   1.923907e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.4662e+10
+rel. change during last iteration : -5.88668e-07
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 45333.9
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.05516e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 52152.4          +/- 5.004e+04    (95.95%)
+b               = 19239.1          +/- 1.679e+04    (87.26%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.692  1.000 
+
+
+*******************************************************************************
+Mon Nov  9 21:18:14 2020
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.0654386304e+10   0.00e+00  7.43e-01    1.000000e+00   1.000000e+00
+   3 2.5117164057e+10  -6.41e-02  7.43e-04    5.624726e+04   1.683818e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.51172e+10
+rel. change during last iteration : -6.4117e-07
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 43955.5
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.93209e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 56247.3          +/- 4.778e+04    (84.94%)
+b               = 16838.2          +/- 1.551e+04    (92.1%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.682  1.000 
+
+
+*******************************************************************************
+Mon Nov 23 16:34:17 2020
+
+
+FIT:    data read from 'MMQ/rzero.dat' using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 17.0000]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = a*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4696421040e+03   0.00e+00  6.87e+00    1.000000e+00   1.000000e+00
+   4 1.6575051394e+01  -6.63e-04  6.87e-04   -8.803235e-02   2.145150e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 16.5751
+rel. change during last iteration : -6.62516e-09
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.08809
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.18393
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -0.0880324       +/- 0.05901      (67.03%)
+b               = 2.14515          +/- 0.5706       (26.6%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.879  1.000 
+
+
+*******************************************************************************
+Mon Nov 23 16:35:27 2020
+
+
+FIT:    data read from 'MMQ/rzero.dat' using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 17.0000]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = a*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4696421040e+03   0.00e+00  6.87e+00    1.000000e+00   1.000000e+00
+   4 1.6575051394e+01  -6.63e-04  6.87e-04   -8.803235e-02   2.145150e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 16.5751
+rel. change during last iteration : -6.62516e-09
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.08809
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.18393
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -0.0880324       +/- 0.05901      (67.03%)
+b               = 2.14515          +/- 0.5706       (26.6%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.879  1.000 
+
+
+*******************************************************************************
+Mon Nov 23 16:35:34 2020
+
+
+FIT:    data read from 'MMQ/rzero.dat' using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 17.0000]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = a*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4696421040e+03   0.00e+00  6.87e+00    1.000000e+00   1.000000e+00
+   4 1.6575051394e+01  -6.63e-04  6.87e-04   -8.803235e-02   2.145150e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 16.5751
+rel. change during last iteration : -6.62516e-09
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.08809
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.18393
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -0.0880324       +/- 0.05901      (67.03%)
+b               = 2.14515          +/- 0.5706       (26.6%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.879  1.000 
+
+
+*******************************************************************************
+Mon Nov 23 16:35:44 2020
+
+
+FIT:    data read from 'MMQ/rzero.dat' using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 17.0000]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = a*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4696421040e+03   0.00e+00  6.87e+00    1.000000e+00   1.000000e+00
+   4 1.6575051394e+01  -6.63e-04  6.87e-04   -8.803235e-02   2.145150e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 16.5751
+rel. change during last iteration : -6.62516e-09
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.08809
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.18393
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -0.0880324       +/- 0.05901      (67.03%)
+b               = 2.14515          +/- 0.5706       (26.6%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.879  1.000 
+
+
+*******************************************************************************
+Mon Nov 23 16:35:50 2020
+
+
+FIT:    data read from 'MMQ/rzero.dat' using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 17.0000]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = a*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4696421040e+03   0.00e+00  6.87e+00    1.000000e+00   1.000000e+00
+   4 1.6575051394e+01  -6.63e-04  6.87e-04   -8.803235e-02   2.145150e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 16.5751
+rel. change during last iteration : -6.62516e-09
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.08809
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.18393
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -0.0880324       +/- 0.05901      (67.03%)
+b               = 2.14515          +/- 0.5706       (26.6%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.879  1.000 
+
+
+*******************************************************************************
+Mon Nov 23 16:36:06 2020
+
+
+FIT:    data read from 'MMQ/rzero.dat' using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 17.0000]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = a*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4696421040e+03   0.00e+00  6.87e+00    1.000000e+00   1.000000e+00
+   4 1.6575051394e+01  -6.63e-04  6.87e-04   -8.803235e-02   2.145150e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 16.5751
+rel. change during last iteration : -6.62516e-09
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.08809
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.18393
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -0.0880324       +/- 0.05901      (67.03%)
+b               = 2.14515          +/- 0.5706       (26.6%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.879  1.000 
+
+
+*******************************************************************************
+Mon Nov 23 16:36:16 2020
+
+
+FIT:    data read from 'MMQ/rzero.dat' using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 17.0000]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = a*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4696421040e+03   0.00e+00  6.87e+00    1.000000e+00   1.000000e+00
+   4 1.6575051394e+01  -6.63e-04  6.87e-04   -8.803235e-02   2.145150e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 16.5751
+rel. change during last iteration : -6.62516e-09
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.08809
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.18393
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -0.0880324       +/- 0.05901      (67.03%)
+b               = 2.14515          +/- 0.5706       (26.6%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.879  1.000 
+
+
+*******************************************************************************
+Mon Nov 23 16:36:39 2020
+
+
+FIT:    data read from 'MMQ/rzero.dat' using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 17.0000]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = a*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4696421040e+03   0.00e+00  6.87e+00    1.000000e+00   1.000000e+00
+   4 1.6575051394e+01  -6.63e-04  6.87e-04   -8.803235e-02   2.145150e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 16.5751
+rel. change during last iteration : -6.62516e-09
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.08809
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.18393
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -0.0880324       +/- 0.05901      (67.03%)
+b               = 2.14515          +/- 0.5706       (26.6%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.879  1.000 
+
+
+*******************************************************************************
+Mon Nov 23 16:37:16 2020
+
+
+FIT:    data read from 'MMQ/rzero.dat' using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 17.0000]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = a*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4696421040e+03   0.00e+00  6.87e+00    1.000000e+00   1.000000e+00
+   4 1.6575051394e+01  -6.63e-04  6.87e-04   -8.803235e-02   2.145150e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 16.5751
+rel. change during last iteration : -6.62516e-09
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.08809
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.18393
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -0.0880324       +/- 0.05901      (67.03%)
+b               = 2.14515          +/- 0.5706       (26.6%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.879  1.000 
+
+
+*******************************************************************************
+Mon Nov 23 16:37:48 2020
+
+
+FIT:    data read from 'MMQ/rzero.dat' using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 17.0000]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = a*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4696421040e+03   0.00e+00  6.87e+00    1.000000e+00   1.000000e+00
+   4 1.6575051394e+01  -6.63e-04  6.87e-04   -8.803235e-02   2.145150e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 16.5751
+rel. change during last iteration : -6.62516e-09
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.08809
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.18393
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -0.0880324       +/- 0.05901      (67.03%)
+b               = 2.14515          +/- 0.5706       (26.6%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.879  1.000 
+
+
+*******************************************************************************
+Mon Nov 23 16:38:04 2020
+
+
+FIT:    data read from 'MMQ/rzero.dat' using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 17.0000]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = a*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4696421040e+03   0.00e+00  6.87e+00    1.000000e+00   1.000000e+00
+   4 1.6575051394e+01  -6.63e-04  6.87e-04   -8.803235e-02   2.145150e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 16.5751
+rel. change during last iteration : -6.62516e-09
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.08809
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.18393
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -0.0880324       +/- 0.05901      (67.03%)
+b               = 2.14515          +/- 0.5706       (26.6%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.879  1.000 
+
+
+*******************************************************************************
+Mon Nov 23 16:38:23 2020
+
+
+FIT:    data read from 'MMQ/rzero.dat' using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 17.0000]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = a*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4696421040e+03   0.00e+00  6.87e+00    1.000000e+00   1.000000e+00
+   4 1.6575051394e+01  -6.63e-04  6.87e-04   -8.803235e-02   2.145150e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 16.5751
+rel. change during last iteration : -6.62516e-09
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.08809
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.18393
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -0.0880324       +/- 0.05901      (67.03%)
+b               = 2.14515          +/- 0.5706       (26.6%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.879  1.000 
+
+
+*******************************************************************************
+Mon Nov 23 16:38:53 2020
+
+
+FIT:    data read from 'MMQ/rzero.dat' using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 17.0000]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = a*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4696421040e+03   0.00e+00  6.87e+00    1.000000e+00   1.000000e+00
+   4 1.6575051394e+01  -6.63e-04  6.87e-04   -8.803235e-02   2.145150e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 16.5751
+rel. change during last iteration : -6.62516e-09
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.08809
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.18393
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -0.0880324       +/- 0.05901      (67.03%)
+b               = 2.14515          +/- 0.5706       (26.6%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.879  1.000 
+
+
+*******************************************************************************
+Mon Nov 23 16:40:11 2020
+
+
+FIT:    data read from 'MMQ/rzero.dat' using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 17.0000]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = a*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4696421040e+03   0.00e+00  6.87e+00    1.000000e+00   1.000000e+00
+   4 1.6575051394e+01  -6.63e-04  6.87e-04   -8.803235e-02   2.145150e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 16.5751
+rel. change during last iteration : -6.62516e-09
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.08809
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.18393
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -0.0880324       +/- 0.05901      (67.03%)
+b               = 2.14515          +/- 0.5706       (26.6%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.879  1.000 
+
+
+*******************************************************************************
+Mon Nov 23 16:41:10 2020
+
+
+FIT:    data read from 'MMQ/rzero.dat' using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 17.0000]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = a*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4696421040e+03   0.00e+00  6.87e+00    1.000000e+00   1.000000e+00
+   4 1.6575051394e+01  -6.63e-04  6.87e-04   -8.803235e-02   2.145150e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 16.5751
+rel. change during last iteration : -6.62516e-09
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.08809
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.18393
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -0.0880324       +/- 0.05901      (67.03%)
+b               = 2.14515          +/- 0.5706       (26.6%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.879  1.000 
+
+
+*******************************************************************************
+Mon Nov 23 16:41:22 2020
+
+
+FIT:    data read from 'MMQ/rzero.dat' using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 17.0000]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = a*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4696421040e+03   0.00e+00  6.87e+00    1.000000e+00   1.000000e+00
+   4 1.6575051394e+01  -6.63e-04  6.87e-04   -8.803235e-02   2.145150e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 16.5751
+rel. change during last iteration : -6.62516e-09
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.08809
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.18393
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -0.0880324       +/- 0.05901      (67.03%)
+b               = 2.14515          +/- 0.5706       (26.6%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.879  1.000 
+
+
+*******************************************************************************
+Mon Mar 22 16:05:59 2021
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.3504132973e+10   0.00e+00  7.35e-01    1.000000e+00   1.000000e+00
+   3 2.7617510864e+10  -5.24e-02  7.35e-04    6.158391e+04   1.370980e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.76175e+10
+rel. change during last iteration : -5.24054e-07
+
+degrees of freedom    (FIT_NDF)                        : 18
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 39170.2
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.53431e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 61583.9          +/- 4.021e+04    (65.29%)
+b               = 13709.8          +/- 1.136e+04    (82.86%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.637  1.000 
+
+
+*******************************************************************************
+Mon Mar 22 16:08:08 2021
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.0654386304e+10   0.00e+00  7.43e-01    1.000000e+00   1.000000e+00
+   3 2.5117164057e+10  -6.41e-02  7.43e-04    5.624726e+04   1.683818e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.51172e+10
+rel. change during last iteration : -6.4117e-07
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 43955.5
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.93209e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 56247.3          +/- 4.778e+04    (84.94%)
+b               = 16838.2          +/- 1.551e+04    (92.1%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.682  1.000 
+
+
+*******************************************************************************
+Mon Mar 22 16:25:11 2021
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.0654386304e+10   0.00e+00  7.43e-01    1.000000e+00   1.000000e+00
+   3 2.5117164057e+10  -6.41e-02  7.43e-04    5.624726e+04   1.683818e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.51172e+10
+rel. change during last iteration : -6.4117e-07
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 43955.5
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.93209e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 56247.3          +/- 4.778e+04    (84.94%)
+b               = 16838.2          +/- 1.551e+04    (92.1%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.682  1.000 
+
+
+*******************************************************************************
+Mon Mar 22 16:28:26 2021
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.0654386304e+10   0.00e+00  7.43e-01    1.000000e+00   1.000000e+00
+   3 2.5117164057e+10  -6.41e-02  7.43e-04    5.624726e+04   1.683818e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.51172e+10
+rel. change during last iteration : -6.4117e-07
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 43955.5
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.93209e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 56247.3          +/- 4.778e+04    (84.94%)
+b               = 16838.2          +/- 1.551e+04    (92.1%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.682  1.000 
+
+
+*******************************************************************************
+Mon Mar 22 16:28:32 2021
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.0654386304e+10   0.00e+00  7.43e-01    1.000000e+00   1.000000e+00
+   3 2.5117164057e+10  -6.41e-02  7.43e-04    5.624726e+04   1.683818e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.51172e+10
+rel. change during last iteration : -6.4117e-07
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 43955.5
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.93209e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 56247.3          +/- 4.778e+04    (84.94%)
+b               = 16838.2          +/- 1.551e+04    (92.1%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.682  1.000 
+
+
+*******************************************************************************
+Wed Mar 31 20:10:15 2021
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.0654386304e+10   0.00e+00  7.43e-01    1.000000e+00   1.000000e+00
+   3 2.5117164057e+10  -6.41e-02  7.43e-04    5.624726e+04   1.683818e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.51172e+10
+rel. change during last iteration : -6.4117e-07
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 43955.5
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.93209e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 56247.3          +/- 4.778e+04    (84.94%)
+b               = 16838.2          +/- 1.551e+04    (92.1%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.682  1.000 
+
+
+*******************************************************************************
+Wed Mar 31 20:10:34 2021
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.0654386304e+10   0.00e+00  7.43e-01    1.000000e+00   1.000000e+00
+   3 2.5117164057e+10  -6.41e-02  7.43e-04    5.624726e+04   1.683818e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.51172e+10
+rel. change during last iteration : -6.4117e-07
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 43955.5
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.93209e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 56247.3          +/- 4.778e+04    (84.94%)
+b               = 16838.2          +/- 1.551e+04    (92.1%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.682  1.000 
+
+
+*******************************************************************************
+Wed Mar 31 20:10:43 2021
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.0654386304e+10   0.00e+00  7.43e-01    1.000000e+00   1.000000e+00
+   3 2.5117164057e+10  -6.41e-02  7.43e-04    5.624726e+04   1.683818e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.51172e+10
+rel. change during last iteration : -6.4117e-07
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 43955.5
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.93209e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 56247.3          +/- 4.778e+04    (84.94%)
+b               = 16838.2          +/- 1.551e+04    (92.1%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.682  1.000 
+
+
+*******************************************************************************
+Thu Apr  1 08:44:19 2021
+
+
+FIT:    data read from 'MMQ/pico_sim.dat' using 1:5
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.0654386304e+10   0.00e+00  7.43e-01    1.000000e+00   1.000000e+00
+   3 2.5117164057e+10  -6.41e-02  7.43e-04    5.624726e+04   1.683818e+04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.51172e+10
+rel. change during last iteration : -6.4117e-07
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 43955.5
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.93209e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 56247.3          +/- 4.778e+04    (84.94%)
+b               = 16838.2          +/- 1.551e+04    (92.1%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.682  1.000 

@@ -1,0 +1,46 @@
+ DADOS DE ENTRADA PARA RESOLUÇÃO DO PROBLEMA COVID-19
+ -------------------------------------------------------------
+ ---------------------------------------------
+ --------- PARÂMETROS GLOBAIS PARA A SIMULAÇÃO
+ ---------------------------------------------
+ 0003000        	       TOT_CICLO - NÚMERO TOTAL DE CICLOS ADMITIDOS PARA SIMULAÇÃO
+ 1.0E-00        	       DT        - LAPSO TEMPORAL (EM DIAS)
+ 0000006        	       S         - NUMERO INICIAL DE TEMPOS DA MALHA TEMPORAL 
+ 0010000        	       IT_SOL    - NÚMERO MÁXIMO DE ITERAÇÕES PARA RESOLVER O SISTEMA
+ 1.0E-06        	       TOL_SOL   - MÍNIMO ERRO ASSUMIDO AO RESOLVER O SISTEMA
+ 1.0E-07        	       TOL_PER   - MÍNIMO ERRO ASSUMIDO PARA ACEITAR REGIME ESTACIONÁRIO
+ -------------------------------------------------
+ --------- PARÂMETROS ESPECÍFICOS 
+ -------------------------------------------------
+ 100.000                        ISO %    - POPULAÇÃO A SER CONSIDERADA
+ 100.000                        ETA %    - PORCENTAGEM ETÁRIA DA POPULAÇÃO (0<ETA<=100)
+ -------------------------------------------------
+ --------- BANCO DE DADOS 
+ ------------------------------------------------- 
+ arquivo_geral_Londrina.dat       BANCO    - NOME DO BANCO DE DADOS UTILIZADO
+ 1.0000                         RZERO    - 
+ NAO                            USO      - USADO PARA CALCULO DE PARAMETROS(SIM/NAO)
+ -------------------------------------------------
+ --------- PARÂMETROS EXTERNOS ESTIMADOS 
+ -------------------------------------------------
+ 0569733                        N_ENT       - VALOR INICIAL DA POPULAÇÃO
+ 0000177                        IN_ENT      - VALOR INICIAL DE INFECTADOS
+ 0011224                        RE_ENT      - VALOR INICIAL DE REMOVIDOS
+ 0000000                        MO_ENT      - VALOR INICIAL DE MORTOS
+ 0000029                        EX_ENT      - VALOR INICIAL DE EXPOSTOS
+ 0000000                        PR_ENT      - VALOR INICIAL DE PERCEPCAO RISCO
+ 0.253000000000000              BETA_ENT    - TAXA DE INFECCÇÃO
+ 0.111111111111111              GAMAR_ENT   - TAXA DE INFECTADOS QUE VIERAM A SER REMOVIDOS
+ 0.005000000000000              GAMAD_ENT   - TAXA DE INFECTADOS QUE VIERAM A MORRER
+ 0.200000000000000              SIGMA_ENT   - PERIODO MEDIO DE LATENCIA
+ 0.000000000000000              CS_ENT      - PROPORCAO DE CASOS SEVEROS
+ 0.089285714285710              LAMBDA_ENT  - DURACAO DA REACAO PUBLICA
+ 1117.300000000000              KAPPA_ENT   - INTENSIDADE DA REACAO PUBLICA
+ 0.000000000000000              MU_ENT 	    - TAXA DE VARIACAO DA POPULACAO (MIGRACAO)
+ -------------------------------------------------
+ --------- PARÂMETROS ALFA ESTIMADOS 
+ -------------------------------------------------
+ DIA:
+ 000	050	060	095
+ VALOR:
+ 0.000000000000000	 0.000000000000000	 0.000000000000000	0.000000000000000
